@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c36ceb2-7070-47b1-aa31-16d4f6529e65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Day-11&amp;Day-12/DeckOfCards/DeckOfCards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-11&amp;Day-12/StockAccountManagement/StockAccountManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-13/Generics/Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-13/Practise/Practise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-14-DataStructures/DSUsingLinkedList/DSUsingLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-14-DataStructures/StacksAndQueues/StacksAndQueues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-15/HashTable/HashTable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-5 PP/ArraySort/ArraySort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-5 PP/Review1/Review1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-5 PP/Rview1/Rview1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-5 PP/day-6-PP/CouppnNumbers/CouppnNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-5 PP/day-6-PP/FibonacciSeries/FibonacciSeries.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-5 PP/day-6-PP/PerfectNumber/PerfectNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-5 PP/day-6-PP/PrimeNumber/PrimeNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-5 PP/day-6-PP/ReverseTheNumber/ReverseTheNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-5 PP/day-6-PP/StopwatchProgram/StopwatchProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-5 PP/practise/practise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-5 PP/review/review.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-5 PP/review11/review11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day-9-OOP/EmployeeWageBuilderMultiCompany/EmployeeWageBuilderMultiCompany.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EmployeeWageComputation/EmployeeWageComputation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FloatAndDouble/.gitignore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FloatAndDouble/FloatAndDouble.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloWorld/LetsTry/LetsTry.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloWorld/trial/trial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PoundsToKilograms/PoundsToKilograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReviewProblems/ArmstrongNumber/ArmstrongNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReviewProblems/Factorial OfNumber/Factorial OfNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReviewProblems/First50FibonacciNumbers/First50FibonacciNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReviewProblems/HarmonicSeriesSum/HarmonicSeriesSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReviewProblems/PatternPrinting/PatternPrinting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReviewProblems/PrimeNumberSum/PrimeNumberSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReviewProblems/ToCheckStringPalindrome/ToCheckStringPalindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeckOfCardsWorkShop/DeckOfCardsWorkShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classWork/SquareRootOfANumber/SquareRootOfANumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classWork/UniqueElement/UniqueElement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classWork/UniqueElementInTheArray/UniqueElementInTheArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/JAVAprgrm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/AreaChallenge/AreaChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/BarkingDog/BarkingDog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/CalcMinsAndSecs/CalcMinsAndSecs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/DecimalPlaceChallenge/DecimalPlaceChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/DigitSumChallenge/DigitSumChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/EqualityPrinter/EqualityPrinter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/LeapYear/LeapYear.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/MaxAndMinInputChallenge/MaxAndMinInputChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/MethodOverLoading/MethodOverLoading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/Sum3And5Challenge/Sum3And5Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/SwitchStatements/SwitchStatements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/YearsAndDays/YearsAndDays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/bankAcoount/bankAcoount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/blabs/blabs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/canPack/canPack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/challenge 3/challenge 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/classProject/classProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/forLoopInterestChallenge/forLoopInterestChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/hasSharedDigit/hasSharedDigit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/hello/hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/inputThenSumAndAverage/inputThenSumAndAverage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/isCatPlaying/isCatPlaying.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/isPalindromeChallenge/isPalindromeChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/javahello/javahello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/megaBytesandKiloBytes/megaBytesandKiloBytes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/parsing/parsing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/printNumberInWord/printNumberInWord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/JAVAprgrm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/out/production/JAVAprgrm/JAVAprgrm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/out/production/JAVAprgrm/src/com/Challengeonoperators/Challengeonoperators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/out/production/JAVAprgrm/src/com/Char&amp;Boolean/Char&amp;Boolean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/out/production/JAVAprgrm/src/com/IfandCodeblock/IfandCodeblock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/out/production/JAVAprgrm/src/com/Ifandelse/Ifandelse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/out/production/JAVAprgrm/src/com/KeywordandExpressions/KeywordandExpressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/out/production/JAVAprgrm/src/com/MethodChallenge/MethodChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/out/production/JAVAprgrm/src/com/PoundstoKG/PoundstoKG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/out/production/JAVAprgrm/src/com/Selfchallengemethods/Operators/Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/out/production/JAVAprgrm/src/com/Selfchallengemethods/Selfchallengemethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/out/production/JAVAprgrm/src/com/Strings/Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/JAVAprgrm/out/production/JAVAprgrm/src/com/company/company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/production/production.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/reading UserInputChallenge/reading UserInputChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/scannerAgeOfTheUser/scannerAgeOfTheUser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/sumOdd/sumOdd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/switchDayOfTheWeek/switchDayOfTheWeek.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/vipCustomer/vipCustomer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/out/whileLoop/whileLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/practise29/practise29.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/src/com/company/company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../other java files/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practise/PerfectSquareFactors/PerfectSquareFactors.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EmployeeWageSwitchStatement" beforeDir="false" afterPath="$PROJECT_DIR$/../../EmployeeWageSwitchStatement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linecomparison" beforeDir="false" afterPath="$PROJECT_DIR$/../../Linecomparison" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20HPaS8Xl6X1kL6R4GCGiEm1TyR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c36ceb2-7070-47b1-aa31-16d4f6529e65" name="Default Changelist" comment="" />
+      <created>1635698606524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635698606524</updated>
+    </task>
+    <servers />
+  </component>
+</project>
