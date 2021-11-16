@@ -10,6 +10,7 @@ public class EmployeePayRollService {
     private List<EmployeePayRollData> employeePayRollList;
 
     public EmployeePayRollService(ArrayList<EmployeePayRollData> employeePayRollList) {
+        this.employeePayRollList = employeePayRollList;
     }
 
     public static void main(String[] args) {
