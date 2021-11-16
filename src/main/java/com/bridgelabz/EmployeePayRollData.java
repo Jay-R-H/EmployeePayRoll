@@ -14,6 +14,8 @@ public class EmployeePayRollData {
         this.salary = salary;
     }
 
-
+    public String toString() {
+        return "id= " + id + ", name= " + name + "salary= " + salary;
+    }
 }
 

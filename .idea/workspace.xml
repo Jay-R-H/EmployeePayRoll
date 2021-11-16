@@ -98,7 +98,10 @@
       <change afterPath="$PROJECT_DIR$/../../practise/PerfectSquareFactors/PerfectSquareFactors.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EmployeeWageSwitchStatement" beforeDir="false" afterPath="$PROJECT_DIR$/../../EmployeeWageSwitchStatement" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Linecomparison" beforeDir="false" afterPath="$PROJECT_DIR$/../../Linecomparison" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/EmployeePayRollData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/EmployeePayRollData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/EmployeePayRollService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/EmployeePayRollService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
